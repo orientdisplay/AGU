@@ -1,2 +1,2 @@
 # AGU
-AGU Series User Manual, and Example Codes
+AGU Series User Manual, Example Codes, and other supporting documents
